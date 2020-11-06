@@ -20,7 +20,7 @@ int main() {
 
     welcome();
     prompt(&quantity, "quantity> ");
-    printf("%i is %.2f dozens", quantity, dozen(quantity));
+    printf("%i is %.2f dozens\n", quantity, dozen(quantity));
 
     return 0;
 }

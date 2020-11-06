@@ -1,4 +1,4 @@
 #!/usr/bin/fish
 mkdir -p bin
-gcc main.c -o bin/test
-./bin/test
+gcc main.c -o bin/dozen-solver
+./bin/dozen-solver
