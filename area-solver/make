@@ -1,0 +1,4 @@
+#!/usr/bin/fish
+mkdir -p bin
+gcc main.c -o bin/area-solver -lm
+./bin/area-solver
