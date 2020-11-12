@@ -1,3 +1,8 @@
+/*************************************
+* Author:     Hussein Amine          *
+* Copyrights: (c) 2020 Hussein Amine *
+*************************************/
+
 #include <stdio.h>
 #include <math.h>
 

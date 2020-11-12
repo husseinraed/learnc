@@ -1,0 +1,4 @@
+#!/usr/bin/fish
+mkdir -p bin
+gcc main.c -o bin/the-advice-of-the-fat-guy
+./bin/the-advice-of-the-fat-guy
