@@ -9,7 +9,7 @@ int main()
 {
     int slices;
 
-    printf("how mch slices of pizza did you eat? ");
+    printf("how much slices of pizza did you eat? ");
     scanf("%i", &slices);
 
     switch(slices)
