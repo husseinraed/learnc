@@ -1,0 +1,4 @@
+#!/usr/bin/fish
+mkdir -p bin
+gcc src/main.c -o bin/fbi-case-9043
+./bin/fbi-case-9043
